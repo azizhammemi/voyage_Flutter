@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290880661851",
+    "project_id": "voyage-85834",
+    "storage_bucket": "voyage-85834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290880661851:android:ecd577e4d6b662e1f5927e",
+        "android_client_info": {
+          "package_name": "com.example.tp2_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm_VzKqlc7EWXVNtU1cyRpDtZycbZnITE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
